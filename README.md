@@ -1,5 +1,5 @@
 # Xamarin Forms Syncfusion Switch control
-This repository contains the demo for the usage of Syncfusion Xamarin.Forms Switch control. This Switch control provides support to 3 different states, on, off and intermediate. Here is the code snippet:
+This repository contains the demo for the usage of Syncfusion Xamarin.Forms Switch control. This Switch control provides support to 3 different states, on, off and intermediate.
 
 ## Syncfusion Controls
 
