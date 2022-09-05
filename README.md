@@ -9,7 +9,7 @@ This project uses the following Syncfusion controls:
 
 
 ## Screenshots
-<img src="Images\Xamarin.Forms Images1.png"  Width="250"/> <img src="Images\Xamarin.Forms Images2.png" Width="250"/>
+<img src="Images/Xamarin.Forms Images1.png"  Width="250"/> <img src="Images/Xamarin.Forms Images2.png" Width="250"/>
 
 ## Supported platforms
 
