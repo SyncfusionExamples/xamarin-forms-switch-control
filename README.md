@@ -1,30 +1,30 @@
 # Xamarin Forms Switch control
 This repository contains the demo for the usage of Syncfusion Xamarin.Forms Switch control. This Switch control provides support to 3 different states, on, off and intermediate.
 
-# Getting Started with Xamarin Switch (SfSwitch)
+## Getting Started with Xamarin Switch (SfSwitch)
 This section explains you the steps to add the SfSwitch control with basic functionalities in Xamarin.Forms.
 
-# Assembly deployment
+## Assembly deployment
 After installing Essential Studio for Xamarin, you can find all the required assemblies in the installation folders, {Syncfusion Essential Studio Installed location} \Essential Studio\{Version #}\Xamarin\lib.
 
-# Adding SfSwitch reference
+## Adding SfSwitch reference
 You can add SfSwitch reference using one of the below methods.
 
-## Method 1: Adding SfSwitch reference from nuget.org
+### Method 1: Adding SfSwitch reference from nuget.org
 
 Syncfusion Xamarin components are available in nuget.org. To add SfSwitch to your project, open the NuGet package manager in Visual Studio, search for Syncfusion.Xamarin.Core, and then install it.
 
-## Method 2: Adding SfSwitch reference from toolbox
+### Method 2: Adding SfSwitch reference from toolbox
 
 Syncfusion provides Xamarin Toolbox. Using this toolbox, you can drag the SfSwitch control to the XAML page. It will automatically install the required NuGet packages and add the namespace to the page. To install Syncfusion Xamarin Toolbox, refer to Toolbox.
 
-## Method 3: Adding SfSwitch assemblies manually from the installed location
+### Method 3: Adding SfSwitch assemblies manually from the installed location
 
 If you prefer to manually reference the assemblies instead referencing from NuGet, add the following assemblies in respective projects.
 
 Location: {Installed location}/{version}/Xamarin/lib
 
-# Initializing SfSwitch
+## Initializing SfSwitch
 Import the Button namespace as shown below in your respective Page,
 
 **[XAML]**
